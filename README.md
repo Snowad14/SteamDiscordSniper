@@ -13,7 +13,7 @@ python3 main.py
 ```
 
 # Warning:
-You can only make 25 requests every 30 minutes
+You can only make 25 requests every 30 minutes, 
 I am not responsible in case of ban (but I do not think there is any risk)
 
 # Credit:
