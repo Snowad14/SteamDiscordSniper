@@ -1,0 +1,6 @@
+SteamUsername: ""
+SteamPassword: ""
+DiscordToken: ""
+
+            # Leave the "" if you are not using a webhook
+WebHook: ""
